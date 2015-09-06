@@ -315,40 +315,6 @@ a.buttons:hover {
 	text-decoration: none;
 }
 
-/*-------------------------------SCROLL----------------------------------*/
- 
-::-webkit-scrollbar-thumb:vertical {
-    background-color: {color:scrollbar};
-    border:3px solid {color:background};
-}
- 
-::-webkit-scrollbar-thumb:horizontal {
-    background-color:  {color:scrollbar};
-    height:3px;
-    border:3px solid {color:background};
-}
- 
-::-webkit-scrollbar-corner {
-    background-color: transparent;
-}
- 
-::-webkit-scrollbar {
-  background-color:  {color:background};
-  height:7px;
-  width:7px;
-}
- 
-* {
-     box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-transition: all 0.6s ease-out;
-  -moz-transition: all 0.6s ease-out;
-  -ms-transition: all 0.6s ease-out;
-  -o-transition: all 0.6s ease-out;
-  transition: all 0.6s ease-out;
-}
-
 
 
 /* Section - for main page content */
