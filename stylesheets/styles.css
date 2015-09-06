@@ -147,9 +147,11 @@ p img {
 }
 
 .cat0 {
-	left: 250px;
-	top: 100px;
-	left: 0;
+	background: url(https://41.media.tumblr.com/a969ac92efa21bb592c67064650aec33/tumblr_nu90taaBND1uy9hy2o2_400.jpg);
+	width: 325px;
+	height: 251px;
+	left: 322px;
+	top: 0;
 	text-decoration: none;
 }
 
@@ -176,7 +178,7 @@ span.cat0 {
 	text-decoration: none;
 }
 
-.cat1:hover {
+image.cat1:hover {
 	width: 100%;
 	height: 100%;
 }
