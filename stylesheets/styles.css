@@ -278,6 +278,7 @@ td {
 }
 
 
+
 /* Header */
 
 header {
@@ -296,6 +297,10 @@ header {
 	padding: 34px 25px 22px 50px;
 	margin: 30px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
+}
+
+header:hover {
+	background-color: pink;
 }
 
 p.header {
