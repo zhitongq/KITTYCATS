@@ -158,7 +158,7 @@ p img {
 	height: 100%;
 }
 .cat1 {
-	left: 300px;
+	right: 300px;
 	top: 100px;
 	left: 0;
 	text-decoration: none;
@@ -191,7 +191,7 @@ p img {
 	height: 100%;
 }
 .cat4 {
-	left: 450px;
+	right: 450px;
 	top: 100px;
 	left: 0;
 	text-decoration: none;
