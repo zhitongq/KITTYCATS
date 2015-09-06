@@ -387,8 +387,9 @@ a.buttons:hover {
 
 section {
   width:600px;
-  position: relatie;
-  float:right;
+  
+  position: relative;
+  float:left;
   padding-bottom:50px;
 }
 
