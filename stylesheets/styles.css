@@ -148,9 +148,8 @@ p img {
 
 cat0 {
 	background: url(https://41.media.tumblr.com/a969ac92efa21bb592c67064650aec33/tumblr_nu90taaBND1uy9hy2o2_400.jpg);
-	width: 325px;
-	height: 251px;
-	left: 322px;
+	width: 20%;
+	height: 20%;
 	top: 0;
 	text-decoration: none;
 }
@@ -301,7 +300,6 @@ header {
 }
 
 header:hover {
-	color: #171717;
 	background-image: url(https://40.media.tumblr.com/4695235045fb4cc451c78cd4785437ff/tumblr_nse51vhMRM1upy9zyo1_250.png);
 }
 
@@ -311,6 +309,15 @@ p.header {
 
 h1.header {
 	font-family: Rancho;
+	font-size: 50px;
+	font-weight: 300;
+	line-height: 1.3em;
+	border-bottom: none;
+	margin-top: 0;
+}
+h1.header:hover {
+	font-family: Rancho;
+	color: black;
 	font-size: 50px;
 	font-weight: 300;
 	line-height: 1.3em;
