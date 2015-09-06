@@ -383,14 +383,22 @@ a.buttons:hover {
 
 
 
-/* Section - for main page content */
+/* Section and Content- for main page content */
 
 section {
   width:600px;
-  
-  position: relative;
+  margin: 0 auto 0 50%;
   float:left;
   padding-bottom:50px;
+}
+
+content {
+	top: 69px;
+	left: 0;
+	width: 968px;
+	height: 497px;
+	overflow: hidden;
+	margin: 0 auto 0 50%;
 }
 
 
