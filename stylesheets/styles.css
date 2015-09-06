@@ -151,8 +151,8 @@ p img {
 	background-image: url(https://lh3.googleusercontent.com/HyC7Xqd_nWCwExaKrlERUTURZ2YYO8ERjJc28o9xM51C2cFwWu1DJJz_b2Xk5QtAwOXthA=w1325-h523);
 	width: 200px;
 	height: 200px;
-	left: 322px;
-	top: 0;
+	left: 150px;
+	top: 100px;
 	left: 0;
 	text-decoration: none;
 }
@@ -322,7 +322,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width:650px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
