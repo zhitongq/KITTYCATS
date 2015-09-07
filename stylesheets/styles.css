@@ -522,7 +522,7 @@ div.content {
 }
 
 container {
-	left: -55;
+	left: 300px;
 	width: 600px;
 	margin: 100px auto 0;
 }
