@@ -392,7 +392,7 @@ section {
   width:600px;
   float:left;
   padding-bottom:50px;
-  margin: 0 auto 0 10%;
+  margin: 0 auto 0 50%;
 }
 
 div.content {
@@ -402,6 +402,7 @@ div.content {
 	height: 497px;
 	position: relative;
     	border: 3px solid #8AC007;
+    	margin: 0 auto 0 50%;
 }
 
 
