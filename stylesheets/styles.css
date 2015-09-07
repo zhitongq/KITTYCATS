@@ -287,7 +287,7 @@ div.cat9 {
     	background-repeat:no-repeat;
     	background-size: contain;
     	top: 350px;
-    	left: 450px;
+    	left: 410px;
     	width: 150px;
     	height: 100px;
     	border: 3px solid #8AC007;
@@ -310,6 +310,18 @@ div.cat12 {
     	background-repeat:no-repeat;
     	background-size: contain;
     	top: 690px;
+    	right: -55;
+    	width: 200px;
+    	height: 100px;
+    	border: 3px solid #8AC007;
+}
+
+div.cat14 {
+	position: absolute;
+	background: url(https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a.jpeg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 500px;
     	right: -55;
     	width: 200px;
     	height: 100px;
