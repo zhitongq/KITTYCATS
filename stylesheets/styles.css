@@ -151,6 +151,7 @@ p img {
 div.cat0 {
 	position: absolute;
 	background: url(https://41.media.tumblr.com/a969ac92efa21bb592c67064650aec33/tumblr_nu90taaBND1uy9hy2o2_400.jpg);
+    	background-repeat:no-repeat;
     	background-size: contain;
     	top: 80px;
     	right: 0;
@@ -163,18 +164,15 @@ div.cat0 {
 div.cat1 {
 	position: absolute;
 	background: url(hhttps://40.media.tumblr.com/d14a63c09e6f61a710e6a7ad36d872cb/tumblr_nu90taaBND1uy9hy2o3_1280.jpg);
+    	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 150px;
-    	right: 0;
+    	top: 80px;
+    	right: -50;
     	width: 200px;
     	height: 200px;
     	border: 3px solid #8AC007;
 }
 
-cat1:hover {
-	width: 100%;
-	height: 100%;
-}
 cat2 {
 	left: 350px;
 	top: 100px;
