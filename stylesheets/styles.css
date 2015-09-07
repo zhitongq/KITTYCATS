@@ -179,7 +179,7 @@ div.cat2 {
     	background-repeat:no-repeat;
     	background-size: contain;
     	top: 80px;
-    	right: 55;
+    	right: 55px;
     	width: 200px;
     	height: 200px;
     	border: 3px solid #8AC007;
@@ -190,8 +190,8 @@ div.cat3 {
 	background: url(https://41.media.tumblr.com/4187c09acaa48d6b576e511705b1beec/tumblr_nu90taaBND1uy9hy2o5_400.jpg);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 80px;
-    	right: 55;
+    	top: 200px;
+    	right: 0;
     	width: 200px;
     	height: 200px;
     	border: 3px solid #8AC007;
