@@ -274,7 +274,7 @@ div.cat11 {
 	background: url(https://40.media.tumblr.com/02bf43408ac90e086649bfc3388568f9/tumblr_nu92jsmPKK1uy9hy2o4_1280.jpg);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 650px;
+    	top: 620px;
     	right: -55;
     	width: 150px;
     	height: 100px;
@@ -297,7 +297,7 @@ div.cat10 {
 	background: url(https://41.media.tumblr.com/ccea32c870a560492e5d54d1cedf0bad/tumblr_nu92jsmPKK1uy9hy2o3_1280.jpg);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 650px;
+    	top: 700px;
     	left: 450px;
     	width: 200px;
     	height: 200px;
@@ -309,10 +309,10 @@ div.cat12 {
 	background: url(https://41.media.tumblr.com/b5e255a1c266d12dcce34354fd32c48e/tumblr_nu92jsmPKK1uy9hy2o5_1280.jpg);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 800px;
-    	right: 0;
+    	top: 700px;
+    	right: -55;
     	width: 200px;
-    	height: 200px;
+    	height: 100px;
     	border: 3px solid #8AC007;
 }
 
