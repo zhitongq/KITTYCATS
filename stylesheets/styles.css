@@ -160,23 +160,20 @@ div.cat0 {
 
 }
 
-div.cat0:hover {
-	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
-}
-
-
 
 div.cat2 {
 	position: absolute;
 	background: url(https://40.media.tumblr.com/82ece73ed1f45ab5dd2b13a11a6205e2/tumblr_nu90taaBND1uy9hy2o4_500.jpg);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 100px;
+    	top: 95px;
     	right: -55;
     	width: 100px;
     	height: 100px;
 
 }
+
+
 
 div.cat3 {
 	position: absolute;
@@ -330,6 +327,53 @@ div.cat14 {
     	width: 200px;
     	height: 200px;
 
+}
+
+
+div.cat0:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat1:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat2:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat3:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat4:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat5:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat6:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat7:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat8:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat9:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat10:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat11:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat12:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat13:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+div.cat14:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
 }
 
 
@@ -520,6 +564,11 @@ div.content {
 	height: auto;
 	position: relative;
     	margin: 0 auto 0 20%;
+}
+
+container {
+	width: 600px;
+	margin: 100px auto 0;
 }
 
 
