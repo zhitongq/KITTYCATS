@@ -390,7 +390,6 @@ a.buttons:hover {
 
 section {
   width:600px;
-  margin: 0 auto 0 50%;
   float:left;
   padding-bottom:50px;
 }
@@ -400,7 +399,6 @@ div.content {
 	left: 0;
 	width: 600px;
 	height: 497px;
-	margin: 0 auto 0 50%;
 	position: relative;
     	border: 3px solid #8AC007;
 }
