@@ -160,6 +160,10 @@ div.cat0 {
 
 }
 
+div.cat0:hover {
+	background: url(http://i.imgur.com/O6J0pT9.png) repeat;
+}
+
 
 
 div.cat2 {
