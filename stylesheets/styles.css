@@ -221,6 +221,94 @@ div.cat5 {
     	border: 3px solid #8AC007;
 }
 
+div.cat6 {
+	position: absolute;
+	background: url(https://40.media.tumblr.com/f095942e2ce26f351500cc8be30600e0/tumblr_nu90taaBND1uy9hy2o8_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat7 {
+	position: absolute;
+	background: url(https://40.media.tumblr.com/68eb4a81ca822bc5bba2d5c2522b8f26/tumblr_nu90taaBND1uy9hy2o1_250.png);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat8 {
+	position: absolute;
+	background: url(https://36.media.tumblr.com/b8d743b4ed72c8a766aa74491265fbff/tumblr_nu92jsmPKK1uy9hy2o1_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat9 {
+	position: absolute;
+	background: url(https://41.media.tumblr.com/e15a32e91b477b11f44ffd78c10a16d6/tumblr_nu92jsmPKK1uy9hy2o2_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat10 {
+	position: absolute;
+	background: url(https://41.media.tumblr.com/ccea32c870a560492e5d54d1cedf0bad/tumblr_nu92jsmPKK1uy9hy2o3_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat11 {
+	position: absolute;
+	background: url(https://40.media.tumblr.com/02bf43408ac90e086649bfc3388568f9/tumblr_nu92jsmPKK1uy9hy2o4_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat12 {
+	position: absolute;
+	background: url(https://41.media.tumblr.com/b5e255a1c266d12dcce34354fd32c48e/tumblr_nu92jsmPKK1uy9hy2o5_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
+div.cat13 {
+	position: absolute;
+	background: url(https://40.media.tumblr.com/4cf05ddbe46787b7e6e4334bbc8696f9/tumblr_nu92jsmPKK1uy9hy2o6_1280.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 800px;
+    	right: 0;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
+}
 
 /* Code blocks */
 
