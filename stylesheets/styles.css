@@ -392,6 +392,7 @@ section {
   width:600px;
   float:left;
   padding-bottom:50px;
+  margin: 0 auto 0 10%;
 }
 
 div.content {
