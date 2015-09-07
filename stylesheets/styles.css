@@ -567,6 +567,7 @@ div.content {
 }
 
 container {
+	left: -55;
 	width: 600px;
 	margin: 100px auto 0;
 }
