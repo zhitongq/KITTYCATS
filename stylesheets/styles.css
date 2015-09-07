@@ -167,34 +167,36 @@ div.cat1 {
     	background-repeat:no-repeat;
     	background-size: contain;
     	top: 80px;
-    	right: -50;
+    	right: -55;
     	width: 200px;
     	height: 200px;
     	border: 3px solid #8AC007;
 }
 
-cat2 {
-	left: 350px;
-	top: 100px;
-	left: 0;
-	text-decoration: none;
+div.cat2 {
+	position: absolute;
+	background: url(https://40.media.tumblr.com/82ece73ed1f45ab5dd2b13a11a6205e2/tumblr_nu90taaBND1uy9hy2o4_500.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 80px;
+    	right: 55;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
 }
 
-cat2:hover {
-	width: 100%;
-	height: 100%;
-}
-cat3 {
-	left: 400px;
-	top: 100px;
-	left: 0;
-	text-decoration: none;
+div.cat3 {
+	position: absolute;
+	background: url(https://41.media.tumblr.com/4187c09acaa48d6b576e511705b1beec/tumblr_nu90taaBND1uy9hy2o5_400.jpg);
+    	background-repeat:no-repeat;
+    	background-size: contain;
+    	top: 80px;
+    	right: 55;
+    	width: 200px;
+    	height: 200px;
+    	border: 3px solid #8AC007;
 }
 
-cat3:hover {
-	width: 100%;
-	height: 100%;
-}
 cat4 {
 	right: 450px;
 	top: 100px;
