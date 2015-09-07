@@ -222,7 +222,6 @@ div.cat4 {
     	border: 3px solid #8AC007;
 }
 
-
 div.cat6 {
 	position: absolute;
 	background: url(https://40.media.tumblr.com/f095942e2ce26f351500cc8be30600e0/tumblr_nu90taaBND1uy9hy2o8_1280.jpg);
@@ -234,13 +233,14 @@ div.cat6 {
     	height: 100px;
     	border: 3px solid #8AC007;
 }
+
 div.cat7 {
 	position: absolute;
 	background: url(https://40.media.tumblr.com/68eb4a81ca822bc5bba2d5c2522b8f26/tumblr_nu90taaBND1uy9hy2o1_250.png);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 800px;
-    	right: 0;
+    	top: 95px;
+    	left: 490px;
     	width: 200px;
     	height: 200px;
     	border: 3px solid #8AC007;
