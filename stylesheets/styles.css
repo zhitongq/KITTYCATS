@@ -153,8 +153,8 @@ div.cat0 {
 	background: url(https://41.media.tumblr.com/a969ac92efa21bb592c67064650aec33/tumblr_nu90taaBND1uy9hy2o2_400.jpg);
     	top: 80px;
     	right: 0;
-    	width: 200px;
-    	height: 100px;
+    	width: 20%;
+    	height: 20%;
     	border: 3px solid #8AC007;
 }
 
@@ -402,7 +402,7 @@ div.content {
 	height: 497px;
 	position: relative;
     	border: 3px solid #8AC007;
-    	margin: 0 auto 0 50%;
+    	margin: 0 auto 0 20%;
 }
 
 
