@@ -146,12 +146,15 @@ p img {
   border: none;
 }
 
+/* Cat Images */
+
 cat0 {
 	background: url(https://41.media.tumblr.com/a969ac92efa21bb592c67064650aec33/tumblr_nu90taaBND1uy9hy2o2_400.jpg);
 	width: 200px;
 	height: 200px;
 	left: 322px;
-	top: 0;
+	right: 300px;
+	top: 100px;
 	text-decoration: none;
 }
 
@@ -171,6 +174,7 @@ span.cat0 {
   -o-transition: opacity 500ms;
   transition: opacity 500ms;
 }
+
 cat1 {
 	right: 300px;
 	top: 100px;
