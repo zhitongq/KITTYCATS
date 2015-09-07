@@ -157,7 +157,9 @@ div.cat0 {
     	right: -55;
     	width: 100px;
     	height: 100px;
-
+	font-family: Arvo, Monaco, serif;
+	font-size: 10px;
+	color: white;
 }
 
 
@@ -170,7 +172,9 @@ div.cat2 {
     	right: -55;
     	width: 100px;
     	height: 100px;
-
+	font-family: Arvo, Monaco, serif;
+	font-size: 10px;
+	color: white;
 }
 
 
@@ -184,7 +188,9 @@ div.cat3 {
     	right: -55;
     	width: 100px;
     	height: 100px;
-
+	font-family: Arvo, Monaco, serif;
+	font-size: 10px;
+	color: white;
 }
 
 div.cat1 {
