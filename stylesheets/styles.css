@@ -157,7 +157,7 @@ div.cat0 {
     	right: -55;
     	width: 100px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 
@@ -171,7 +171,7 @@ div.cat2 {
     	right: -55;
     	width: 100px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat3 {
@@ -183,7 +183,7 @@ div.cat3 {
     	right: -55;
     	width: 100px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat1 {
@@ -219,7 +219,7 @@ div.cat6 {
     	left: 475px;
     	width: 150px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat7 {
@@ -231,7 +231,7 @@ div.cat7 {
     	left: 490px;
     	width: 100px;
     	height: 90px;
-    	border: 3px solid #8AC007;
+
 }
 div.cat13 {
 	position: absolute;
@@ -242,7 +242,7 @@ div.cat13 {
     	right: 0;
     	width: 100px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat4 {
@@ -254,7 +254,7 @@ div.cat4 {
     	right: -55;
     	width: 200px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat8 {
@@ -266,7 +266,7 @@ div.cat8 {
     	right: -55;
     	width: 150px;
     	height: 150px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat11 {
@@ -278,7 +278,7 @@ div.cat11 {
     	right: -55;
     	width: 150px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+ 
 }
 
 div.cat9 {
@@ -290,7 +290,7 @@ div.cat9 {
     	left: 400px;
     	width: 180px;
     	height: 150px;
-    	border: 3px solid #8AC007;
+
 }
 div.cat10 {
 	position: absolute;
@@ -301,7 +301,7 @@ div.cat10 {
     	left: 400px;
     	width: 200px;
     	height: 200px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat12 {
@@ -313,7 +313,7 @@ div.cat12 {
     	right: -55;
     	width: 200px;
     	height: 100px;
-    	border: 3px solid #8AC007;
+
 }
 
 div.cat14 {
@@ -325,7 +325,7 @@ div.cat14 {
     	left: 480px;
     	width: 200px;
     	height: 200px;
-    	border: 3px solid #8AC007;
+
 }
 
 
