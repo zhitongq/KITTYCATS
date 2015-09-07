@@ -227,7 +227,7 @@ div.cat7 {
 	background: url(https://40.media.tumblr.com/68eb4a81ca822bc5bba2d5c2522b8f26/tumblr_nu90taaBND1uy9hy2o1_250.png);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 95px;
+    	top: 105px;
     	left: 490px;
     	width: 100px;
     	height: 90px;
@@ -262,8 +262,8 @@ div.cat8 {
 	background: url(https://36.media.tumblr.com/b8d743b4ed72c8a766aa74491265fbff/tumblr_nu92jsmPKK1uy9hy2o1_1280.jpg);
     	background-repeat:no-repeat;
     	background-size: contain;
-    	top: 450px;
-    	right: 0;
+    	top: 460px;
+    	right: -55;
     	width: 150px;
     	height: 150px;
     	border: 3px solid #8AC007;
