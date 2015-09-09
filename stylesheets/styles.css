@@ -366,10 +366,10 @@ ul.img-list {
 
 ul.img-list li {
   display: inline-block;
-  height: 150px;
+  height: auto;
   margin: 0 1em 1em 0;
   position: relative;
-  width: 150px;
+  width: auto;
 }
 
 
