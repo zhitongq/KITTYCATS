@@ -335,11 +335,9 @@ span.text-content {
   color: white;
   cursor: pointer;
   display: table;
-  height: 150px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 150px;
   opacity: 0;
   -webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
@@ -366,10 +364,8 @@ ul.img-list {
 
 ul.img-list li {
   display: inline-block;
-  height: auto;
   margin: 0 1em 1em 0;
   position: relative;
-  width: auto;
 }
 
 
